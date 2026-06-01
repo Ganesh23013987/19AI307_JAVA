@@ -40,7 +40,7 @@ public class StringBufferExample3{
 ```
 ## OUTPUT:
 
-![3b](image.png)
+"C:\Users\BSS\OneDrive\Documents\Pictures\Screenshots\Screenshot 2026-06-01 201200.jpg"
 
 ## RESULT:
 
