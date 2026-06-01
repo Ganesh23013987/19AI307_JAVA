@@ -39,9 +39,10 @@ public class StringBufferExample3{
 }  
 ```
 ## OUTPUT:
-
-"C:\Users\BSS\OneDrive\Documents\Pictures\Screenshots\Screenshot 2026-06-01 201200.jpg"
-
+``
+i code prog
+i code Java
+```
 ## RESULT:
 
 Thus the java program use append() method concatenates the given argument with this String and use stringbuffer class was executed successfully.
