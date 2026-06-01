@@ -39,10 +39,11 @@ public class StringBufferExample3{
 }  
 ```
 ## OUTPUT:
-``
+```
 i code prog
 i code Java
 ```
+
 ## RESULT:
 
 Thus the java program use append() method concatenates the given argument with this String and use stringbuffer class was executed successfully.
