@@ -54,7 +54,6 @@ Expected        Got
 17              17
 
 ```
-![2b](image.png)
 
 ## RESULT:
 Thus the java program to display the addition number using private modifiers only was executed successfully.
