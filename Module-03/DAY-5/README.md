@@ -16,8 +16,8 @@ To write a Java program that creates a StringBuilder object using a given string
  ```
 /*
 Program to implement a StringBuilder Object Reference in Java
-Developed by: DINESHKARTHIK N
-Registeration Number : 212223220021 
+Developed by: GANESH D
+Registeration Number : 212223240035
 */
 ```
 
